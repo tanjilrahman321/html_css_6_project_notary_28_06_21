@@ -413,6 +413,7 @@ header{
 	font-size: 16px;
 	padding: 0 5px;
 	border-right: 0;
+	outline: none;
 }
 
 .contact_content .newsletter button{
